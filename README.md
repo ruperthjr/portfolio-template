@@ -38,7 +38,7 @@ A high-performance personal portfolio and blog template built with SvelteKit 2, 
 
 1. Clone the template:
     ```bash
-    git clone https://github.com/ruperthjr/portfolio-template.git portfolio-template
+    git clone https://github.com/portfolio-template.git portfolio-template
     cd portfolio-template
     ```
 2. Install dependencies:
